@@ -1,7 +1,7 @@
 
-![hello kitty note app](./assets/images/figures/004.png)
 <div align="center">
-  # Hello Kitty Note App
+  <img src="./assets/images/figures/004.png" alt="hello kitty app" />
+  <h1>Hello Kitty Note App</h1>
   <div style="display: flex;>
     <img alt="splash" height="200" width="120" src="https://i.ibb.co/hgYgGPV/92820a48-9090-45c4-a082-55b8efcb70c1.jpg" />
     <img alt="home screen" height="200" width="120" src="https://i.ibb.co/JnvjpQb/c028fc97-deeb-46da-a50d-7d17d114cb58.jpg" />
